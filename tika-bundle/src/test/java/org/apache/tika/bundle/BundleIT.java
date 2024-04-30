@@ -41,7 +41,6 @@ import org.ops4j.pax.exam.junit.JUnit4TestRunner;
 import org.osgi.framework.BundleContext;
 import org.xml.sax.ContentHandler;
 
-@RunWith(JUnit4TestRunner.class)
 public class BundleIT {
 
     private final File TARGET = new File("target");
